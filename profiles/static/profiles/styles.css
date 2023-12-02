@@ -26,3 +26,14 @@ button:active {
   background-color: #830443;
   border-color: #830443;
 }
+
+li {
+  list-style-type: none;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border: 5px solid yellow;
+}
